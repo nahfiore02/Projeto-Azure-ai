@@ -45,7 +45,7 @@ O objetivo foi criar, configurar e testar soluções de inteligência artificial
 4. Configure a chave e a região para uso nos estúdios.
 
 *Exemplo de captura de tela:*  
-![Criação do recurso no Azure](images/criacao-recurso.png)
+![Criação do recurso no Azure](images/imagem1.png)
 
 ---
 
