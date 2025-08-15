@@ -45,7 +45,7 @@ O objetivo foi criar, configurar e testar soluções de inteligência artificial
 4. Configure a chave e a região para uso nos estúdios.
 
 *Exemplo de captura de tela:*  
-(Projeto-Azure-ai/Imagem 1.png)
+(Projeto-Azure-ai/Imagem1.png)
 
 ---
 
