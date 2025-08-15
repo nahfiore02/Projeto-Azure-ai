@@ -74,7 +74,7 @@ O objetivo foi criar, configurar e testar soluções de inteligência artificial
 ## 📊 Resultados
 - O **Speech Studio** conseguiu transcrever o áudio com alta precisão.
 - O **Language Studio** identificou corretamente o sentimento e entidades no texto.
-- Insights: (adicione aqui o que você aprendeu ou percebeu nos testes).
+- Insights: Durante os testes, percebi que o Speech Studio transcreve áudios com alta precisão, mesmo quando há pequenas variações na pronúncia. O Language Studio identificou corretamente sentimentos e entidades no texto, mostrando-se útil para análise de feedbacks ou extração de informações importantes. Notei também que o processo é rápido e intuitivo, mas áudios com múltiplas vozes ou textos muito coloquiais podem exigir revisão manual para garantir total precisão.
 
 ---
 
