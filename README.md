@@ -58,7 +58,8 @@ O objetivo foi criar, configurar e testar soluções de inteligência artificial
 4. Analise o resultado da transcrição.
 
 *Exemplo de captura de tela:*  
-![Teste no Speech Studio](images/teste-speech.png)
+![Exemplo de imagem](https://raw.githubusercontent.com/nahfiore02/Projeto-Azure-ai/main/Imagem2.png)
+
 
 ---
 
@@ -69,7 +70,7 @@ O objetivo foi criar, configurar e testar soluções de inteligência artificial
 4. Verifique os resultados e insights.
 
 *Exemplo de captura de tela:*  
-![Teste no Language Studio](images/teste-language.png)
+![Exemplo de imagem](https://raw.githubusercontent.com/nahfiore02/Projeto-Azure-ai/main/Imagem3.png)
 
 ---
 
